@@ -1,0 +1,8 @@
+transformers
+seaborn
+matplotlib
+gradio
+pandas
+datasets
+nltk
+SentencePiece
